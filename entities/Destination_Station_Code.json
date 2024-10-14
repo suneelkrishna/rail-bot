@@ -1,0 +1,9 @@
+{
+  "id": "c3af0ddc-5dfb-4b0d-8f18-a5ebc5bfda8c",
+  "name": "Destination_Station_Code",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

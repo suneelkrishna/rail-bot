@@ -1,0 +1,139 @@
+[
+  {
+    "value": "GN",
+    "synonyms": [
+      "General Quota",
+      "GN",
+      "General"
+    ]
+  },
+  {
+    "value": "LD",
+    "synonyms": [
+      "Ladies Quota",
+      "LD",
+      "Ladies"
+    ]
+  },
+  {
+    "value": "HO",
+    "synonyms": [
+      "Head quarters/high official Quota",
+      "HO"
+    ]
+  },
+  {
+    "value": "DF",
+    "synonyms": [
+      "Defence Quota",
+      "DF",
+      "defense"
+    ]
+  },
+  {
+    "value": "PH",
+    "synonyms": [
+      "Parliament house Quota",
+      "PH"
+    ]
+  },
+  {
+    "value": "FT",
+    "synonyms": [
+      "Foreign Tourist Quota",
+      "FT"
+    ]
+  },
+  {
+    "value": "DP",
+    "synonyms": [
+      "Duty Pass Quota",
+      "DP"
+    ]
+  },
+  {
+    "value": "TQ",
+    "synonyms": [
+      "Tatkal Quota",
+      "TQ",
+      "tatkal"
+    ]
+  },
+  {
+    "value": "PT",
+    "synonyms": [
+      "Premium Tatkal Quota",
+      "PT"
+    ]
+  },
+  {
+    "value": "SS",
+    "synonyms": [
+      "Female(above 45 Year)/Senior Citizen/Travelling alone",
+      "SS"
+    ]
+  },
+  {
+    "value": "HP",
+    "synonyms": [
+      "Physically Handicapped Quota",
+      "HP"
+    ]
+  },
+  {
+    "value": "RE",
+    "synonyms": [
+      "Railway Employee Staff on Duty for the train",
+      "RE"
+    ]
+  },
+  {
+    "value": "GNRS",
+    "synonyms": [
+      "General Quota Road Side",
+      "GNRS"
+    ]
+  },
+  {
+    "value": "OS",
+    "synonyms": [
+      "Out Station",
+      "OS"
+    ]
+  },
+  {
+    "value": "PQ",
+    "synonyms": [
+      "Pooled Quota",
+      "PQ"
+    ]
+  },
+  {
+    "value": "RC(RAC)",
+    "synonyms": [
+      "Reservation Against Cancellation",
+      "RC(RAC)"
+    ]
+  },
+  {
+    "value": "RS",
+    "synonyms": [
+      "Road Side",
+      "RS"
+    ]
+  },
+  {
+    "value": "YU",
+    "synonyms": [
+      "Yuva",
+      "YU"
+    ]
+  },
+  {
+    "value": "LB",
+    "synonyms": [
+      "Lower Berth",
+      "LB"
+    ]
+  }
+]

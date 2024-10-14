@@ -1,0 +1,158 @@
+{
+  "id": "dc170b55-12da-43c6-b59a-70a445f59fdc",
+  "name": "Seat Availability",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "41e8c566-6703-45a1-a4a2-eb4413ffec21",
+          "name": "train_no",
+          "required": true,
+          "dataType": "@Train_no",
+          "value": "$train_no",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please mention the train no."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f4b059b1-2509-434f-856e-6c6bf64bc629",
+          "name": "source_station_code",
+          "required": true,
+          "dataType": "@Source_Station_code",
+          "value": "$source_station_code",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where would you board the train from?"
+            },
+            {
+              "lang": "en",
+              "value": "Where would you like to start your journey from?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9067eea8-1f53-4e04-b45d-cfc65e504846",
+          "name": "destination_station_code",
+          "required": true,
+          "dataType": "@Destination_Station_Code",
+          "value": "$destination_station_code",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where would you like to travel to?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s your Destination city?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4d70d4f1-76bb-46f3-85c2-6807808291cc",
+          "name": "quota",
+          "required": true,
+          "dataType": "@Quota",
+          "value": "$quota",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Specify the quota you want to check in from, General, ladies, tatkal etc."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "da15f622-d69a-4aa2-8aae-ac8f5bedf2e4",
+          "name": "class_type",
+          "required": true,
+          "dataType": "@Class_type",
+          "value": "$class_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please share the seat type or the travel class from, 1AC, 2AC, 3AC, Sleeper, CC etc"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "82b73c62-1b6c-400d-9299-8dc69b3dd561",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please let me know the date you want to check availability for."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please let me know the train no, source city/station, destination city/station, likely travel date, quota type (general/tatkal) and seat class (2AC, 3AC, CC, Sleeper etc)?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

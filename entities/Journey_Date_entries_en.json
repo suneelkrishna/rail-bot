@@ -1,0 +1,74 @@
+[
+  {
+    "value": "(\\d{4})-(\\d{2})-(\\d{2})",
+    "synonyms": [
+      "(\\d{4})-(\\d{2})-(\\d{2})"
+    ]
+  },
+  {
+    "value": "(\\d{2})-(\\d{2})-(\\d{4})",
+    "synonyms": [
+      "(\\d{2})-(\\d{2})-(\\d{4})"
+    ]
+  },
+  {
+    "value": "(\\d{4})/(\\d{2})/(\\d{2})",
+    "synonyms": [
+      "(\\d{4})/(\\d{2})/(\\d{2})"
+    ]
+  },
+  {
+    "value": "(January|February|March|April|May|June|July|August|September|October|November|December)\\s*(\\d{1,2}),\\s*(\\d{4})",
+    "synonyms": [
+      "(January|February|March|April|May|June|July|August|September|October|November|December)\\s*(\\d{1,2}),\\s*(\\d{4})"
+    ]
+  },
+  {
+    "value": "(\\d{1,2})\\s*(January|February|March|April|May|June|July|August|September|October|November|December)\\s*(\\d{4})",
+    "synonyms": [
+      "(\\d{1,2})\\s*(January|February|March|April|May|June|July|August|September|October|November|December)\\s*(\\d{4})"
+    ]
+  },
+  {
+    "value": "(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\\s*(\\d{1,2}),\\s*(\\d{4}): Matches month abbreviations followed by day, comma, and year (e.g., Jul 21, 2024",
+    "synonyms": [
+      "(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\\s*(\\d{1,2}),\\s*(\\d{4}): Matches month abbreviations followed by day, comma, and year (e.g., Jul 21, 2024"
+    ]
+  },
+  {
+    "value": "(\\d{1,2})\\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\\s*(\\d{4})",
+    "synonyms": [
+      "(\\d{1,2})\\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\\s*(\\d{4})"
+    ]
+  },
+  {
+    "value": "(Mon|Tue|Wed|Thu|Fri|Sat|Sun),\\s*(\\d{1,2})\\s*(January|February|March|April|May|June|July|August|September|October|November|December)\\s*(\\d{4})",
+    "synonyms": [
+      "(Mon|Tue|Wed|Thu|Fri|Sat|Sun),\\s*(\\d{1,2})\\s*(January|February|March|April|May|June|July|August|September|October|November|December)\\s*(\\d{4})"
+    ]
+  },
+  {
+    "value": "(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\\s*(\\d{1,2})\\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\\s*(\\d{4})",
+    "synonyms": [
+      "(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\\s*(\\d{1,2})\\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\\s*(\\d{4})"
+    ]
+  },
+  {
+    "value": "(today|tonight)",
+    "synonyms": [
+      "(today|tonight)"
+    ]
+  },
+  {
+    "value": "(tomorrow)",
+    "synonyms": [
+      "(tomorrow)"
+    ]
+  },
+  {
+    "value": "(yesterday)",
+    "synonyms": [
+      "(yesterday)"
+    ]
+  }
+]

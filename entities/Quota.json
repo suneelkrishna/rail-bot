@@ -1,0 +1,9 @@
+{
+  "id": "6ed09ede-811a-4744-9a63-f4a8581b8b08",
+  "name": "Quota",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

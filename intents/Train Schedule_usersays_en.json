@@ -1,0 +1,208 @@
+[
+  {
+    "id": "d7f068ac-1625-4eef-98bb-a80ba192ca32",
+    "data": [
+      {
+        "text": "10 Oct 2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a24c516b-7ddf-45aa-91bc-a98742c9fafc",
+    "data": [
+      {
+        "text": "what are the trains from ",
+        "userDefined": false
+      },
+      {
+        "text": "ndls",
+        "meta": "@Source_Station_code",
+        "alias": "Source_Station_code",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Kanpur Central",
+        "meta": "@Destination_Station_Code",
+        "alias": "Destination_Station_Code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1a2596f-c546-4311-8925-835b3a440383",
+    "data": [
+      {
+        "text": "what are the trains from ",
+        "userDefined": false
+      },
+      {
+        "text": "AGC",
+        "meta": "@Source_Station_code",
+        "alias": "Source_Station_code",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "JP",
+        "meta": "@Destination_Station_Code",
+        "alias": "Destination_Station_Code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceef95bc-8574-4be6-a432-68bfcf6c0540",
+    "data": [
+      {
+        "text": "what are the trains from ",
+        "userDefined": false
+      },
+      {
+        "text": "delhi",
+        "meta": "@Source_Station_code",
+        "alias": "Source_Station_code",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "mumbai",
+        "meta": "@Destination_Station_Code",
+        "alias": "Destination_Station_Code",
+        "userDefined": true
+      },
+      {
+        "text": " 0n ",
+        "userDefined": false
+      },
+      {
+        "text": "25 July 2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "536168ee-8818-4d06-b432-95d5a51e9d2d",
+    "data": [
+      {
+        "text": "Can you give me the timings of the Train Number ",
+        "userDefined": false
+      },
+      {
+        "text": "12451",
+        "meta": "@Train_number",
+        "alias": "Train_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4aa26e88-12b3-42b5-90d7-7a7a77191168",
+    "data": [
+      {
+        "text": "\"Is there a train departing for ",
+        "userDefined": false
+      },
+      {
+        "text": "Bengaluru",
+        "meta": "@Destination_Station_Code",
+        "alias": "Destination_Station_Code",
+        "userDefined": true
+      },
+      {
+        "text": " tonight?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6443664d-dcb1-4436-b9e6-1f48c3d13e87",
+    "data": [
+      {
+        "text": "Show me the schedule for the next train to ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "meta": "@Destination_Station_Code",
+        "alias": "Destination_Station_Code",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "792ab99e-0460-41b6-9cbe-4d0b8328886e",
+    "data": [
+      {
+        "text": "what are the trains from ",
+        "userDefined": false
+      },
+      {
+        "text": "delhi",
+        "meta": "@Source_Station_code",
+        "alias": "Source_Station_code",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "mumbai",
+        "meta": "@Destination_Station_Code",
+        "alias": "Destination_Station_Code",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

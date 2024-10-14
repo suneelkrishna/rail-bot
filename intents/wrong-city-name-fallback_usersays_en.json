@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6ea6591c-59f4-4f6c-9f4c-28122ae01a71",
+    "data": [
+      {
+        "text": "canberra",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85b53a40-6290-4dca-9226-bebb6d728043",
+    "data": [
+      {
+        "text": "sydney",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2bc4280-cc9d-4968-94c6-4e485a20d11f",
+    "data": [
+      {
+        "text": "dublin",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e36c1960-309a-4bb8-a96e-c259c47f4d46",
+    "data": [
+      {
+        "text": "London",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

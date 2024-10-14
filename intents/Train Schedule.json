@@ -1,0 +1,117 @@
+{
+  "id": "f6e66c6c-8e03-49ea-9562-0e9e821ddad6",
+  "name": "Train Schedule",
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97ad684b-07bd-400f-b955-63b73d34ab13",
+          "name": "Train_number",
+          "required": false,
+          "dataType": "@Train_number",
+          "value": "$Train_number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "59ae2e92-2256-4978-9e36-df42e97361b5",
+          "name": "Source_Station_code",
+          "required": true,
+          "dataType": "@Source_Station_code",
+          "value": "$Source_Station_code",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where would you like to start your journey from?"
+            },
+            {
+              "lang": "en",
+              "value": "Where would you board the train from?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "88721c05-43b3-4d30-bf5b-3b5d1b8d2c5b",
+          "name": "Destination_Station_Code",
+          "required": true,
+          "dataType": "@Destination_Station_Code",
+          "value": "$Destination_Station_Code",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s your Destination city?"
+            },
+            {
+              "lang": "en",
+              "value": "Where would you like to travel to?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9aaea66e-d1ef-4df0-a8a4-82deae4ebfe4",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Travel Date?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0475d476-78e5-40f1-b437-a041391e2fd6",
+          "name": "test",
+          "required": false,
+          "dataType": "",
+          "value": "$",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

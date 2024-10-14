@@ -1,0 +1,9 @@
+{
+  "id": "57dc9ea8-1e5d-4c04-bfa1-03c6dcd54dca",
+  "name": "Source_station",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

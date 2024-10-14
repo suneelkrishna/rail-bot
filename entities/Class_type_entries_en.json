@@ -1,0 +1,88 @@
+[
+  {
+    "value": "UR",
+    "synonyms": [
+      "Unreserved General Class",
+      "UR"
+    ]
+  },
+  {
+    "value": "2S",
+    "synonyms": [
+      "Second-class Sitting",
+      "2S",
+      "2nd class"
+    ]
+  },
+  {
+    "value": "SL",
+    "synonyms": [
+      "Second-class sleeper",
+      "SL",
+      "sleeper"
+    ]
+  },
+  {
+    "value": "1A",
+    "synonyms": [
+      "First-class air-conditioned",
+      "1A",
+      "1 Ac",
+      "first class"
+    ]
+  },
+  {
+    "value": "2A",
+    "synonyms": [
+      "Second-class air-conditioned",
+      "2A",
+      "2 AC",
+      "2nd Class"
+    ]
+  },
+  {
+    "value": "3A",
+    "synonyms": [
+      "Third-class air-conditioned",
+      "3A",
+      "3 ac",
+      "3rd class",
+      "3ac"
+    ]
+  },
+  {
+    "value": "CC",
+    "synonyms": [
+      "Chair Car",
+      "CC"
+    ]
+  },
+  {
+    "value": "3E",
+    "synonyms": [
+      "Third AC Economy",
+      "3E"
+    ]
+  },
+  {
+    "value": "FC",
+    "synonyms": [
+      "AC FIrst Class",
+      "FC"
+    ]
+  },
+  {
+    "value": "EC",
+    "synonyms": [
+      "AC Executive Class",
+      "EC"
+    ]
+  },
+  {
+    "value": "EA",
+    "synonyms": [
+      "Executive Anubhuti",
+      "EA"
+    ]
+  }
+]

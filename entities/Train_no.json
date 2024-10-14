@@ -1,0 +1,9 @@
+{
+  "id": "527a83e2-46a8-4ee3-baa8-f17684e605d5",
+  "name": "Train_no",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

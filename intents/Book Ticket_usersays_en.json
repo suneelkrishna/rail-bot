@@ -1,0 +1,53 @@
+[
+  {
+    "id": "be670bdc-e562-42dd-809f-ef4271c975e8",
+    "data": [
+      {
+        "text": "The passenger name is ",
+        "userDefined": false
+      },
+      {
+        "text": "John Doe",
+        "meta": "@sys.given-name",
+        "alias": "name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eae27eac-01c8-4730-ac2a-cfee2ab0a5ea",
+    "data": [
+      {
+        "text": "Book a train ticket in train no 1234 for ",
+        "userDefined": false
+      },
+      {
+        "text": "@date",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5862d663-8166-4cd1-a53d-4d38d1f7d059",
+    "data": [
+      {
+        "text": "Book a train ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

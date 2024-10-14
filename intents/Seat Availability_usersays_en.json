@@ -1,0 +1,384 @@
+[
+  {
+    "id": "a970ee31-65e3-452e-af21-e0034ed1a86e",
+    "data": [
+      {
+        "text": "chennai",
+        "meta": "@Destination_Station_Code",
+        "alias": "destination_station_code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1320618f-884f-4974-9a3a-7a65afcf21bb",
+    "data": [
+      {
+        "text": "Jaipur",
+        "meta": "@Source_Station_code",
+        "alias": "source_station_code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9c42d6e-9a53-47fc-b76d-9e7abdec3cfc",
+    "data": [
+      {
+        "text": "Train no ",
+        "userDefined": false
+      },
+      {
+        "text": "12451",
+        "meta": "@Train_no",
+        "alias": "train_no",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcfb6ec0-7e47-4f6b-a54c-6b394c6640aa",
+    "data": [
+      {
+        "text": "whats the status of berth availability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29822b38-0bc9-42af-ae0a-b27b32cba98d",
+    "data": [
+      {
+        "text": "how many vacant seats left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6ef9b90-6b8b-422e-9121-a326bef21d71",
+    "data": [
+      {
+        "text": "let me know the no of seats left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d73016e2-9787-40a7-b6f9-55a88f63e638",
+    "data": [
+      {
+        "text": "tell me the seat availability status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0517bd0-dc3c-4871-883a-1324d3af0350",
+    "data": [
+      {
+        "text": "in ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@Class_type",
+        "alias": "class_type",
+        "userDefined": false
+      },
+      {
+        "text": "nd AC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b40990f-6a9f-4d8b-b1af-f3ce47c852af",
+    "data": [
+      {
+        "text": "in ",
+        "userDefined": false
+      },
+      {
+        "text": "general",
+        "meta": "@Quota",
+        "alias": "quota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9e6e72e-343e-4ab4-904c-9a4e90d3aaff",
+    "data": [
+      {
+        "text": "On ",
+        "userDefined": false
+      },
+      {
+        "text": "30 Nov",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ad30e5c-2a51-4ba2-b595-39a6ffc618ce",
+    "data": [
+      {
+        "text": "tatkal",
+        "meta": "@Quota",
+        "alias": "quota",
+        "userDefined": false
+      },
+      {
+        "text": " ticket on ",
+        "userDefined": false
+      },
+      {
+        "text": "12452",
+        "meta": "@Train_no",
+        "alias": "train_no",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 AC",
+        "meta": "@Class_type",
+        "alias": "class_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc6d33a2-bf2b-42a8-91bf-96f57c7ddd4a",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "meta": "@Source_Station_code",
+        "alias": "source_station_code",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Kota",
+        "meta": "@Destination_Station_Code",
+        "alias": "destination_station_code",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3AC",
+        "meta": "@Class_type",
+        "alias": "class_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cebe087a-e307-4c89-b020-0b3e02b3ed9f",
+    "data": [
+      {
+        "text": "train no ",
+        "userDefined": false
+      },
+      {
+        "text": "12034",
+        "meta": "@Train_no",
+        "alias": "train_no",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Ghaziabad",
+        "meta": "@Source_Station_code",
+        "alias": "source_station_code",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "kanpur",
+        "meta": "@Destination_Station_Code",
+        "alias": "destination_station_code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8facb317-f9da-41bf-ae3a-ede82ca74cfa",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "Kanpur",
+        "meta": "@Destination_Station_Code",
+        "alias": "destination_station_code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cf8b765-d0d8-459a-87a4-148c04599f2d",
+    "data": [
+      {
+        "text": "check availability from ",
+        "userDefined": false
+      },
+      {
+        "text": "Lucknow",
+        "meta": "@Source_Station_code",
+        "alias": "source_station_code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14b0ae7d-ccbc-42e8-adef-a679c6d38db1",
+    "data": [
+      {
+        "text": "What\u0027s the seat availability status of train no ",
+        "userDefined": false
+      },
+      {
+        "text": "12452",
+        "meta": "@Train_no",
+        "alias": "train_no",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "New delhi",
+        "meta": "@Source_Station_code",
+        "alias": "source_station_code",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "kanpur",
+        "meta": "@Destination_Station_Code",
+        "alias": "destination_station_code",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "21 oct",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "general",
+        "meta": "@Quota",
+        "alias": "quota",
+        "userDefined": false
+      },
+      {
+        "text": " quota ",
+        "userDefined": false
+      },
+      {
+        "text": "2 ac",
+        "meta": "@Class_type",
+        "alias": "class_type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

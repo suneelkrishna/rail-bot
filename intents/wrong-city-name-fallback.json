@@ -1,0 +1,71 @@
+{
+  "id": "5acdc01c-3e99-40bc-9ffb-093cb45b2043",
+  "name": "wrong-city-name-fallback",
+  "auto": true,
+  "contexts": [
+    "seat_availability_dialog_params_source_station_code"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "seat_availability_dialog_context",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9aadc1d9-8df2-4825-b253-7f96098c0e78",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "92276941-408a-424a-9467-bb3f3a11790a",
+          "name": "train_no",
+          "required": false,
+          "dataType": "@Train_no",
+          "value": "$train_no",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It looks like the city you entered doesn’t have a train station serviced by Indian Railways. Please try entering a valid city name, like Mumbai or Delhi or a station code like NDLS, CSTM."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

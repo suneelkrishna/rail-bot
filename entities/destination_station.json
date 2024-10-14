@@ -1,0 +1,9 @@
+{
+  "id": "d07f4c38-455a-49aa-b1d2-08c40645fe68",
+  "name": "destination_station",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

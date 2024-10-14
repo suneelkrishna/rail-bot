@@ -1,0 +1,9 @@
+{
+  "id": "bfc412ab-0317-4e8e-8879-0b75d11cbc54",
+  "name": "Journey_Date",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
