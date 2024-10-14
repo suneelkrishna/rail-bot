@@ -47,6 +47,7 @@ To set up the RailBot project, follow these steps:
      *  Trigger: Select HTTP Trigger and allow unauthenticated access
    * Upload Fulfillment Code:
      * Choose Inline Editor and paste the code from the fulfillment/ directory of this repository.
+     * Create your own API key from https://rapidapi.com/ and update the api key value in code. 
    * Set Entry Point: Set the Entry Point to the function’s main handler "train_schedule_webhook" in this case.
    * Deploy: Click Deploy and wait for the process to complete. Copy the provided function URL
    * Connect to Dialogflow: In the Dialogflow Console, enable the Webhook under Fulfillment and paste the Cloud Function URL.
