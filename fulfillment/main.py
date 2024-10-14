@@ -8,7 +8,7 @@ def train_schedule_webhook(request):
     url = "https://irctc1.p.rapidapi.com/api/v3/trainBetweenStations"
     querystring = {"fromStationCode":"","toStationCode":"","dateOfJourney":""}
     headers = {
-      "x-rapidapi-key": "057abdc900msh13d80d1278bff0dp11230fjsn851f4f95c94b",
+      "x-rapidapi-key": "",
       "x-rapidapi-host": "irctc1.p.rapidapi.com"
     }
 
@@ -70,7 +70,7 @@ def train_schedule_webhook(request):
     url = "https://irctc1.p.rapidapi.com/api/v1/checkSeatAvailability"
     querystring = {"classType":"", "fromStationCode":"", "quota":"", "toStationCode":"", "trainNo":"", "date":""}
     headers = {
-      "x-rapidapi-key": "64294ee7f7msh00d36bcd4e8e1abp12e172jsnf79a00c4a282",
+      "x-rapidapi-key": "<create and use your own key from https://rapidapi.com/>",
       "x-rapidapi-host": "irctc1.p.rapidapi.com"
     }
     request_json = request.get_json()
